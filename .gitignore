@@ -1,2 +1,2 @@
-stenv/
-.stenv/
+.venv
+__pycache__

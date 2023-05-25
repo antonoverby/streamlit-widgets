@@ -1,6 +1,9 @@
+from app.utils import page_layout 
 import streamlit as st
 import time
 from stqdm import stqdm
+
+page_layout()
 
 # 0 to 100 progress bar
 st.write("0 to 100 progress bar")
