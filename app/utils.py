@@ -7,7 +7,6 @@ Use the page_layout function define things that every page should do. Instead of
 
 def page_layout():
     st.set_page_config(layout="wide")
-    add_page_title()
     add_indentation()
     
    
