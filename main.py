@@ -17,7 +17,8 @@ show_pages(
         # Section("Components"),
         Page("pages/progressbar.py", "Progress Bar"),
         Page("pages/converter.py", "Unit Converter"),
-        Page("pages/form.py", "Input Form")
+        Page("pages/form.py", "Input Form"),
+        Page("pages/draggable-list.py", "Draggable List")
 
     ]
     )
